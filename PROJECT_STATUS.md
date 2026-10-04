@@ -117,10 +117,10 @@ Success Criteria:
 Tasks:
 
 - [x] Create Search Layer
-- [ ] Create Wikipedia Retrieval API
-- [ ] Create Notes Formatter
-- [ ] Connect Search to Notes Page
-- [ ] Test with 10+ topics
+- ⏳ Create Wikipedia Retrieval API
+- ⏳ Create Notes Formatter
+- ⏳ Connect Search to Notes Page
+- ⏳ Test with 10+ topics
 
 Target Output:
 
