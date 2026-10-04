@@ -116,7 +116,7 @@ Success Criteria:
 
 Tasks:
 
-- [ ] Create Search Layer
+- [x] Create Search Layer
 - [ ] Create Wikipedia Retrieval API
 - [ ] Create Notes Formatter
 - [ ] Connect Search to Notes Page
