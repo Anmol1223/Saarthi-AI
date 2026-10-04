@@ -463,3 +463,280 @@ Business Operations
 AI Assistance
 
 within a single ecosystem.
+
+---
+
+# Automated Project Status Rules
+
+## Rule 1: Mandatory Status Update
+
+After every completed task:
+
+1. Update PROJECT_STATUS.md
+2. Update Sprint Progress
+3. Update Development Log
+4. Commit Changes
+
+Example:
+
+Completed:
+- Notes Search
+- Login Page
+
+Commit:
+git commit -m "feat: add notes search"
+
+---
+
+## Rule 2: Sprint Management
+
+Each sprint must contain:
+
+- Goal
+- Tasks
+- Progress Percentage
+- Status
+
+Possible Status:
+
+- Planned
+- In Progress
+- Testing
+- Completed
+- Blocked
+
+Example:
+
+Sprint-001
+
+Goal:
+Complete Product Skeleton
+
+Progress:
+70%
+
+Status:
+In Progress
+
+---
+
+## Rule 3: Development Log
+
+Every major change must be recorded.
+
+Template:
+
+### YYYY-MM-DD
+
+Completed:
+
+- Feature A
+- Feature B
+
+Issues:
+
+- Bug A
+- Bug B
+
+Next Steps:
+
+- Feature C
+- Feature D
+
+---
+
+## Rule 4: Feature Completion Checklist
+
+A feature is not complete until:
+
+- UI Completed
+- Backend Completed
+- Database Integrated
+- Testing Completed
+- Documentation Updated
+
+All boxes must be completed.
+
+---
+
+## Rule 5: Phase Completion Rules
+
+Phase cannot be marked complete until:
+
+### Phase I
+
+- Authentication
+- Dashboard
+- Notes
+- Current Affairs
+- Tests
+- Analytics
+
+All working.
+
+### Phase II
+
+- Evaluation
+- Planner
+- PYQ System
+- Admin Panel
+
+All working.
+
+### Phase III
+
+- Faculty System
+- Courses
+- Live Classes
+- AI Layer
+- Business Layer
+
+All working.
+
+---
+
+## Rule 6: Branch Discipline
+
+main
+
+- Stable Production Code
+
+dev
+
+- Active Development
+
+feature/*
+
+- Individual Features
+
+Examples:
+
+feature/notes
+feature/tests
+feature/evaluation
+
+---
+
+## Rule 7: Commit Convention
+
+feat:
+New feature
+
+fix:
+Bug fix
+
+docs:
+Documentation
+
+refactor:
+Code cleanup
+
+style:
+UI improvements
+
+Examples:
+
+feat: add notes engine
+
+fix: login redirect bug
+
+docs: update roadmap
+
+---
+
+## Rule 8: Modern Automation Stack
+
+Whenever possible use:
+
+Frontend:
+- Next.js
+- React
+- Tailwind
+- Shadcn
+
+Backend:
+- Next.js API
+
+Database:
+- Supabase
+
+Auth:
+- Supabase Auth
+
+Storage:
+- Supabase Storage
+
+Analytics:
+- PostHog
+- Google Analytics
+- Microsoft Clarity
+
+Email:
+- Resend
+
+Deployment:
+- Vercel
+
+OCR:
+- Tesseract
+
+AI:
+- Ollama
+- Gemma
+- Llama
+
+Priority:
+
+Free
+↓
+Open Source
+↓
+Paid
+
+---
+
+## Rule 9: Every Session Start
+
+Before writing code:
+
+1. Read PROJECT_STATUS.md
+2. Read ROADMAP.md
+3. Check Current Sprint
+4. Check Open Tasks
+5. Decide Task Priority
+
+Only then begin development.
+
+---
+
+## Rule 10: Every Session End
+
+Mandatory:
+
+- Update PROJECT_STATUS.md
+- Update Sprint Progress
+- Record Development Log
+- Commit Changes
+- Push to GitHub
+
+Session is not complete until these steps are done.
+
+---
+
+## Rule 11: Success Metric
+
+A feature provides value only if:
+
+User
+↓
+Uses Feature
+↓
+Receives Real Output
+↓
+Problem Solved
+
+No placeholders.
+No dummy outputs.
+No "Coming Soon" results.
+
+Only working functionality counts as progress.
