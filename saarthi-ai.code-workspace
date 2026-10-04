@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../finsarth.ai/saarthi-ai"
+		},
+		{
+			"path": "../finsarth.ai/saarthi-ai/components"
+		},
+		{
+			"path": "../finsarth.ai/saarthi-ai/.env.local"
+		}
+	],
+	"settings": {}
+}
